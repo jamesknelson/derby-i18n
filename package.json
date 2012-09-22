@@ -1,0 +1,21 @@
+{
+  "author": "James Nelson <james@numbat.com.au>",
+  "name": "i18next-derby",
+  "description": "i18next for use with derby",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jamesknelson/i18next-derby.git"
+  },
+  "private": false,
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "derby": ">= 0.3.13"
+  }
+}
