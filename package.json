@@ -1,14 +1,14 @@
 {
   "author": "James Nelson <james@numbat.com.au>",
-  "name": "i18next-derby",
-  "description": "i18next for use with derby",
+  "name": "derby-i18n",
+  "description": "simple i18n support for derby",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jamesknelson/i18next-derby.git"
+    "url": "git://github.com/jamesknelson/derby-i18n.git"
   },
   "private": false,
-  "main": "index.js",
+  "main": "lib/i18n",
   "directories": {
     "lib": "lib"
   },
