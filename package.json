@@ -8,7 +8,7 @@
     "url": "git://github.com/jamesknelson/derby-i18n.git"
   },
   "private": false,
-  "main": "lib/i18n",
+  "main": "lib/index",
   "directories": {
     "lib": "lib"
   },
