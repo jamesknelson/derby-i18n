@@ -17,5 +17,14 @@
   },
   "dependencies": {
     "derby": ">= 0.3.13"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "i18n",
+    "derby"
+  ],
+  "license": "BSD"
 }
