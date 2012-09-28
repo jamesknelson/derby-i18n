@@ -26,5 +26,5 @@
     "i18n",
     "derby"
   ],
-  "license": "BSD"
+  "license": "MIT"
 }
